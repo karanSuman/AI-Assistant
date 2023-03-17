@@ -40,6 +40,3 @@ wikipedia  # pip install wikipedia
 smtplib
 
 pyjokes  
-## Live link
-
-https://karansuman.github.io/AI-Assistant/
