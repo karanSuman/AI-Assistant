@@ -9,6 +9,7 @@ A Simple AI Voice Assistant Made By Python Language.
 Python
 ## Functions
 The Assistants Name is Lucifer.
+
 1-He can Welcome You By Greetings.
 
 2-He can Tell You the Time.
